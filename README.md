@@ -10,3 +10,5 @@
 8. READ.md 파일 생성
 9. 로컬 컴퓨터 Git 폴더의 READ.md 파일 수정
 10. GitHub for Windows 애플리케이션을 통해 커밋(Commit)하고 푸시(Push)
+11. 커밋 결과 되돌리기
+12. 다른 GitHub 사용자와 콜라보레이션(Collaboration)
